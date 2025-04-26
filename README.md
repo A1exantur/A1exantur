@@ -26,3 +26,7 @@
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/A1exantur"><img src="https://github-readme-streak-stats.herokuapp.com/?user=A1exantur&stroke=a855f7&background=000000&ring=ef4444&fire=ef4444&currStreakNum=a855f7&currStreakLabel=ef4444&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
