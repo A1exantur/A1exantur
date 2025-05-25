@@ -20,8 +20,3 @@
 
 <p align="left"> <a href="https://www.github.com/A1exantur" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
   
-### Статистика
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/A1exantur"><img src="https://github-readme-streak-stats.herokuapp.com/?user=A1exantur&stroke=a855f7&background=000000&ring=ef4444&fire=ef4444&currStreakNum=a855f7&currStreakLabel=ef4444&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
